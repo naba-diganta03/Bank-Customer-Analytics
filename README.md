@@ -72,7 +72,7 @@ The `.pbix` file provides a clean, interactive view of:
 
 1. Clone the repository or download the files.
 2. Open the Jupyter Notebook `BankEDA.ipynb` to explore data insights.
-3. Launch `Banking Dashboard .pbix` in Power BI Desktop to explore interactive visuals.
+3. Launch `Banking Dashboard.pbix` in Power BI Desktop to explore interactive visuals.
 
 ---
 
