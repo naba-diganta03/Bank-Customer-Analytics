@@ -1,4 +1,4 @@
-# Banking Data Analysis Project (2025)
+# Banking Data Analysis
 
 A comprehensive data analysis and visualization project on banking customer data using **Python (EDA)** and **Power BI (Dashboard)** to uncover customer patterns, account relationships, and business insights.
 
