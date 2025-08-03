@@ -6,8 +6,8 @@ A comprehensive data analysis and visualization project on banking customer data
 
 ## Project Structure
 
-- `BankEDA (Version 1).ipynb`: Exploratory Data Analysis in Python.
-- `Banking Dashboard (2025).pbix`: Interactive Power BI Dashboard.
+- `BankEDA.ipynb`: Exploratory Data Analysis in Python.
+- `Banking Dashboard.pbix`: Interactive Power BI Dashboard.
 - `Banking.csv`: (Assumed) raw dataset used in the analysis.
 
 ---
@@ -71,8 +71,8 @@ The `.pbix` file provides a clean, interactive view of:
 ## How to Use
 
 1. Clone the repository or download the files.
-2. Open the Jupyter Notebook `BankEDA (Version 1).ipynb` to explore data insights.
-3. Launch `Banking Dashboard (2025).pbix` in Power BI Desktop to explore interactive visuals.
+2. Open the Jupyter Notebook `BankEDA.ipynb` to explore data insights.
+3. Launch `Banking Dashboard .pbix` in Power BI Desktop to explore interactive visuals.
 
 ---
 
